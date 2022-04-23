@@ -48,7 +48,7 @@ body {
     position: absolute;
     border-radius: 8px;
     transform: rotate(20deg);
-    animation: all 1s ea;
+    animation: all 1s ease-in-out;
 
 }
 
